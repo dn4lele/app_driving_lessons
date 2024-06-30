@@ -33,3 +33,17 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+
+#remove all file that firebase will generate
+firebase.json
+firebase-debug.log
+firebase-debug.log.json
+firebase-debug.log.json.1
+firebase-debug.log.json.2
+firebase-debug.log.json.3
+firebase-debug.log.json.4
+firebase-debug.log.json.5
+firebase-debug.log.json.6
+FirebaseConfig.jsx
+```
